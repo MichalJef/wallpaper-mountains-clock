@@ -2,7 +2,7 @@
 Minimalist HTML wallpaper with clock, date and day.
 Suitable for 16:9; 16:10; Ultra-Wide. Could probably work on 4:3 or phones, but not sure.
 
-![Preview](...)
+![Preview](preview.png)
 
 > [!TIP] 
 > ### Have 3 languages: Czech, English and German
