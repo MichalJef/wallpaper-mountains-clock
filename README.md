@@ -16,7 +16,7 @@ Suitable for 16:9; 16:10; Ultra-Wide. Could probably work on 4:3 or phones, but 
 
 > [!NOTE]
 > ### Available on Steam for Wallpaper Engine
-> - Audio responsible
+> - Audio responsive
 > - Language can be changed via Wallpaper UI
 >
 > [![Available on Steam](https://img.shields.io/badge/Available%20on%20Steam-002e75?style=flat&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=3409230390)
