@@ -4,7 +4,7 @@ Suitable for 16:9; 16:10; Ultra-Wide. Could probably work on 4:3 or phones, but 
 
 ![Preview](preview.png)
 
-[![Download latest](https://img.shields.io/badge/Download-wallpaper.zip-brightgreen)](https://github.com/MichalJef/wallpaper-mountains-clock/releases/1.0/download/wallpaper.zip)
+[![Download latest](https://img.shields.io/badge/Download-wallpaper.zip-brightgreen)](https://github.com/downloads/MichalJef/wallpaper-mountains-clock/releases/1.0/wallpaper.zip)
 
 > [!TIP] 
 > ### 3 languages available: Czech, English and German
