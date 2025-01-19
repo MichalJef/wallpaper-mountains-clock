@@ -13,3 +13,10 @@ Suitable for 16:9; 16:10; Ultra-Wide. Could probably work on 4:3 or phones, but 
 > 2. Go to line `110`
 > 3. Change to `cs`; `en` or `de` (as shown on line `109`)
 > 4. Save and reload!
+
+> [!NOTE]
+> ### Available on Steam for Wallpaper Engine
+> - Audio responsible
+> - Language can be changed via Wallpaper UI
+>
+> [![Available on Steam](https://img.shields.io/badge/Available%20on%20Steam-002e75?style=flat&logo=steam)](https://steamcommunity.com/sharedfiles/filedetails/?id=3409230390)
