@@ -13,6 +13,7 @@ Suitable for 16:9; 16:10; Ultra-Wide. Could probably work on 4:3 or phones, but 
 > 2. Go to line `110`
 > 3. Change to `cs`; `en` or `de` (as shown on line `109`)
 > 4. Save and reload!
+> - HTML is in Czech, don't be scared by notes!
 
 > [!NOTE]
 > ### Available on Steam for Wallpaper Engine
